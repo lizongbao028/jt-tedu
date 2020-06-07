@@ -9,6 +9,7 @@ E:\STS-Workspace\jt\jt-common\src\main\java\com\jt\common\mapper\SysMapper.java
 E:\STS-Workspace\jt\jt-common\src\main\java\com\jt\common\factory\JedisClusterFactory.java
 E:\STS-Workspace\jt\jt-common\src\main\java\com\jt\common\po\Item.java
 E:\STS-Workspace\jt\jt-common\src\main\java\com\jt\common\vo\EasyUIResult.java
+E:\STS-Workspace\jt\jt-common\src\main\java\com\jt\common\po\Cart.java
 E:\STS-Workspace\jt\jt-common\src\main\java\com\jt\common\service\RedisService.java
 E:\STS-Workspace\jt\jt-common\src\main\java\com\jt\common\po\User.java
 E:\STS-Workspace\jt\jt-common\src\main\java\com\jt\common\vo\OperaterEnum.java
